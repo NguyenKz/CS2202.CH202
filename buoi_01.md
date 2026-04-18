@@ -22,3 +22,22 @@
 - Nên kết hợp cả 2 để có kết quả tốt hơn.
   - Đầu tiên dùng NLP -> xem kết quả -> giải quyết trường hợp không có kết quả tốt bằng CL.
 
+
+# Tại sao cần tri thức ngôn ngữ?
+ Phân tích nghĩa của câu sau? Cần tri thức ngôn ngữ gì để hiểu đúng nghĩa câu này?
+ 1. Học sinh học sinh học.
+    1. Ranh giới từ "_" -> Học sinh -> Học_sinh học Sinh_học.
+ 2. Cổ đeo vòng cổ.
+ 3. Ông già đi nhanh.
+    1. Dùng ranh giới từ "_" và "loại từ" vẫn chưa đủ để hiểu câu này.
+    2. "Ông gìa" đi nhanh | Ông "già đi" nhanh. -> Phân tích cú pháp.
+       1. Hình tố. (Chủ ngữ)
+       2. Phụ thuộc. (Vị từ)
+ 4. Nam kể về tai nạn hôm qua.
+   
+ Tiếng việt: Từ không bị khoản trắng chia cách, vd: học sinh, giáo viên, ...
+ Tiếng anh: Từ bị khoản trắng chia cách, vd: student, teacher, ...
+ -> Phải chuẩn hóa từ vựng, vd: học sinh học sinh học. -> học_sinh học sinh_học.
+    - Cách này không đúng với câu (2): Cổ đeo vòng cổ. -> cổ_đeo vòng cổ | cổ đeo vòng_cổ. (vòng của cổ)
+      - Có thể phân loại theo loại từ: cổ trong "vòng cổ" là "cổ" trong "cổ họng" (danh từ), "cổ" trong "cổ sửa" (tính từ).
+  
