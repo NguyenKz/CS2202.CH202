@@ -34,6 +34,9 @@
        1. Hình tố. (Chủ ngữ)
        2. Phụ thuộc. (Vị từ)
  4. Nam kể về tai nạn hôm qua.
+    1. Hôm qua Nam kể về tai nạn 
+    2. Nam kể về tai nạn sảy ra vào hôm qua.
+   
    
  Tiếng việt: Từ không bị khoản trắng chia cách, vd: học sinh, giáo viên, ...
  Tiếng anh: Từ bị khoản trắng chia cách, vd: student, teacher, ...
