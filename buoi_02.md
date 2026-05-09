@@ -94,7 +94,7 @@
 - Thu thập raw text
 - Phát triển guideline
 - Phát triển annotation tool và các tool tiền xử lý.
-- Huấn luyện annotator.
+- ![Huấn luyện annotator](imgs/IMG_7196.png)
 - Markup Annotaion.
 - Kiểm tra chéo.
 - Clean up corrupted data.
