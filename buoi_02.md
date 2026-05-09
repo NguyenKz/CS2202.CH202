@@ -51,13 +51,13 @@
   
 
 ## Dependency parsing:
-- ![Lưu dạng cây](imgs/IMG_7192.png)
-- ![Luư dạng nhãn mịn](imgs/IMG_7193.png)
+- Lưu dạng cây: ![Lưu dạng cây](imgs/IMG_7192.png)
+- Luư dạng nhãn mịn: ![Luư dạng nhãn mịn](imgs/IMG_7193.png)
 - Lư dạng cây cho dễ nhìn thôi.
 
 ## Semantic role labeling:
 - Vai trò ngữ nghĩa của từ.
-- ![VD](imgs/IMG_7194.png)
+- VD: ![VD](imgs/IMG_7194.png)
 
 ## Time Annotation:
 - Trả lời các câu hỏi liên quan tới thời gian.
@@ -94,7 +94,7 @@
 - Thu thập raw text
 - Phát triển guideline
 - Phát triển annotation tool và các tool tiền xử lý.
-- ![Huấn luyện annotator](imgs/IMG_7196.png)
+- Huấn luyện annotator: ![Huấn luyện annotator](imgs/IMG_7196.png)
 - Markup Annotaion.
 - Kiểm tra chéo.
 - Clean up corrupted data.
