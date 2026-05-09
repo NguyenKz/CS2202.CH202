@@ -46,4 +46,10 @@
   - VD: "<s>Hắn/B đã/... lập/V gia_đình/B, nhưng/.... gia_đình_ấy/B đã/... tan_vỡ/V</s>"
 
 ## Constituency parsing:
-- ![VD](imgs/IMG_7191.HEIC)
+- ![VD](imgs/IMG_7191.png)
+- Lư dạng cây cho dễ nhìn thôi.
+  
+
+## Dependency parsing:
+- ![VD](imgs/IMG_7192.png)
+- Lư dạng cây cho dễ nhìn thôi.
