@@ -51,5 +51,52 @@
   
 
 ## Dependency parsing:
-- ![VD](imgs/IMG_7192.png)
+- ![Lưu dạng cây](imgs/IMG_7192.png)
+- ![Luư dạng nhãn mịn](imgs/IMG_7193.png)
 - Lư dạng cây cho dễ nhìn thôi.
+
+## Semantic role labeling:
+- Vai trò ngữ nghĩa của từ.
+- ![VD](imgs/IMG_7194.png)
+
+## Time Annotation:
+- Trả lời các câu hỏi liên quan tới thời gian.
+
+## Error Tagging:
+- Ứng dụng trong sửa lỗi chính tả.
+- VD: My friend told me ì i knew about Skateboard. -><TIP idxxx><org>knew</org><suggestion>know</suggestion></TIP>
+
+## Pragmatics vs discourse processing:
+- Dùng trong tóm tắt văn bản.
+
+### Discourse processing:
+- Quan tâm tới tính mạch lạc.
+- VD: "Tôi đi học, mẹ đi làm" -> "Tôi đi học còn mẹ đi làm"
+  - Thêm "còn" để mạch lạc.
+- VD: Mô tả ảnh -> chỉ ra 1 danh sách các từ -> Dùng discourse sắp xếp lại để tóm tắt cho giống với một câu có nghĩa.
+  
+## Coreference resolution:
+- Xác định các từ chỉ cùng 1 dối tượng.
+- Vd: "Lan đi chợ, cô ấy hay mua quà cho mẹ."
+  - "cô ấy" chỉ tới Lan.
+
+## Segmentation:
+- Phân tích cảm xúc, từng khía cảnh của câu.
+
+
+# Các vấn đề của NLP
+- VD: 
+  - "Con mèo trắng này" vs "Con mèo này trắng."
+  - "Tôi đang cố khắc phục điểm yếu này" vs "Điểm yếu này tôi đang cố khắc phục."
+
+
+# Quy trình thu thập dữ liệu
+- Thu thập raw text
+- Phát triển guideline
+- Phát triển annotation tool và các tool tiền xử lý.
+- Huấn luyện annotator.
+- Markup Annotaion.
+- Kiểm tra chéo.
+- Clean up corrupted data.
+- Công bố corpus và guideline.
+- 
