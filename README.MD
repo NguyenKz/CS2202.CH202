@@ -16,6 +16,16 @@
   - Làm nhóm: 3 người, điểm chia đều cho các thành viên.
   - Đọc bài báo rồi implement lại, làm sliede báo cáo, và báo cáo trước lớp.
   - Trong vòng 15 phút + 5 phút trả lời câu hỏi và Demo. (20 phút)
+  - Chỉ implelemt thì chỉ được 6đ
+  - 3đ:
+    - Đánh giá model của bài báo trên dataset khác.
+    - Hoặc Đánh giá dataset của bài báo trên model khác.
+  - 1đ: Sau khi có kết quả so sánh ở phần 3đ thì giải tích lý do tại sao có sự khác biệt giữa bài báo và phần 3đ.
+    - VD: model/dataset A bị lỗi này, áp dụng trên dữ liệu này cho ra 3 lỗi, 5 lỗi, tỷ lệ là bao nhiêu.
+      - model/dataset A giải quyết dk 3 hiện tượng ngôn ngữ, model/dataset B được 5. Nhưng 2 cái đúng của A là 2 cái sai của B.....
+      - Kiểu vấn đề của mô hình/data của A giaỉ quyết được mà B không giãi quyế được.
+  
+
 
 
 - Quá trình (50%)
