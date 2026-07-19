@@ -1,0 +1,3 @@
+[submodule "doan"]
+	path = doan
+	url = https://github.com/NguyenKz/CS2202-doan-plausibility.git
